@@ -14,9 +14,9 @@
 
 
 ## Libraries Used
-### Front-end - #### "axios","express", nodemon and concurrently
+### Back-end - #### "axios","express", nodemon and concurrently
 
-### Back-end - #### "redux", "redux-devtools-extension", "redux-thunk","axios": "^0.21.0", "bootstrap": "^4.5.3", "react": "^17.0.1", "react-bootstrap", "react-redux", "react-router-dom"
+### Front-end - #### "redux", "redux-devtools-extension", "redux-thunk", "bootstrap", "react-bootstrap", "react-redux", "react-router-dom", "axios"
 
 ## Test cases
 
